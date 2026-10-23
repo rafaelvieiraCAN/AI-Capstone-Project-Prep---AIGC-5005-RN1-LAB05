@@ -1,0 +1,6 @@
+{
+    "model": "LogisticRegression",
+    "C": 0.01,
+    "solver": "liblinear",
+    "best_threshold": 0.6
+}
